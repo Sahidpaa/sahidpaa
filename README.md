@@ -5,7 +5,7 @@ Sedang menempuh pendidikan diploma dengan prodi **Teknologi Rekayasa Perangkat L
 -
 -
 -
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 - **Pemrograman & Framework:** Python, Laravel, php, java
 - **Desain & Prototyping:** Figma, canva
 - **Tools & Version Control:** VS Code, Git, GitHub
@@ -15,6 +15,6 @@ Sedang menempuh pendidikan diploma dengan prodi **Teknologi Rekayasa Perangkat L
 - **Sistem Informasi Sekolah** : Portal informasi dan akademik berbasis web
 - **Savori Project** :
 
-### 📫 Mari Terhubung!
+### Ayo Terhubung!
 - **Email:** sahidazulfa@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/zulfasahida/
